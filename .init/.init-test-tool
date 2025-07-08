@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/angular-ui-modernization-10794-55d2ae67/ui_frontend"
+}
