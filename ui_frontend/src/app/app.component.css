@@ -1,0 +1,5 @@
+/* Minimal component CSS: only to override Angular defaults if needed */
+:host {
+  display: block;
+  height: 100%;
+}
